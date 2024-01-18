@@ -1,0 +1,1 @@
+This category contains a dataset of grayscale images, which consists of 381 images, of which 10 grayscale images have mask images
